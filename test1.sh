@@ -1,1 +1,1 @@
-echo "thuis file is in master"
+echo "This file is in master"
