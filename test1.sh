@@ -1,1 +1,1 @@
-echo "thuis file is in master branch"
+echo "this file is in master branch"
